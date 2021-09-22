@@ -1,0 +1,2 @@
+# process-control_laravel
+以前作成した工程管理システムをLaravelで再構成
